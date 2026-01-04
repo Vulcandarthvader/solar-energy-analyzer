@@ -1,4 +1,7 @@
-# ☀️ Solar Power ROI Analyzer — A Personal Case Study
+# ☀️ Solar Power ROI Analyzer — A Personal Case Study 
+**TL;DR**  
+ Using real household electricity and solar data, this project shows that our rooftop solar installation breaks even in ~9 years and delivers ~5× returns over its lifetime.
+
 
 This project started as a personal question in my own home:
 
