@@ -1,4 +1,4 @@
-☀️ Solar Power ROI Analyzer — A Personal Case Study
+# ☀️ Solar Power ROI Analyzer — A Personal Case Study
 
 This project started as a personal question in my own home:
 
@@ -11,7 +11,7 @@ This repository documents that journey — from raw bills to a clear, data-drive
 
 
 
-🏠 Background & Motivation
+## 🏠 Background & Motivation
 
 My family has been using grid electricity for years, and in 2023 we installed a rooftop solar system at our home.
 After installation, the electricity bills changed due to net metering, making it difficult to intuitively understand:
@@ -28,7 +28,7 @@ This project was built to make sense of our own household data, while also servi
 
 
 
-📊 Data Source (Real Household Data)
+## 📊 Data Source (Real Household Data)
 
 All data used in this project is real and collected from our home, spanning 2016–2025.
 
@@ -60,7 +60,7 @@ Solar generation is measured independently from billing data
 
 
 
-🧠 What This Project Does
+## 🧠 What This Project Does
 1️⃣ Cleans & structures messy real-world data
 
 Converts year–month billing records into a time series
@@ -99,7 +99,7 @@ When does solar actually break even for my house?
 
 
 
-📈 Key Findings (From Our Home)
+## 📈 Key Findings (From Our Home)
 
 Annual solar generation: ~2,300–2,500 kWh
 
@@ -119,7 +119,7 @@ These results align closely with real rooftop solar economics in India, confirmi
 
 
 
-🖥️ Interactive Dashboard (Small UI)
+## 🖥️ Interactive Dashboard (Small UI)
 
 To make the analysis easier to understand (even for non-technical users at home), I built a simple Streamlit dashboard.
 
@@ -143,7 +143,7 @@ streamlit run app.py
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
@@ -157,7 +157,7 @@ Streamlit – lightweight interactive UI
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 solar-energy-analyzer/
 │
 ├── data/
@@ -171,7 +171,7 @@ solar-energy-analyzer/
 
 
 
-🌱 Why This Project Matters
+## 🌱 Why This Project Matters
 
 Uses real household data, not toy datasets
 
@@ -183,7 +183,7 @@ Bridges ML, finance, and environmental impact
 
 
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Add electricity tariff escalation (inflation-aware savings)
 
