@@ -172,6 +172,19 @@ solar-energy-analyzer/
 ├── app.py
 ├── README.md
 
+## 📸 Project Screenshots
+
+### 🖥️ Streamlit Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### ☀️ Monthly Solar Generation Trend
+![Solar Generation Trend](screenshots/solar_generation_trend.png)
+
+### 💰 Year-wise Savings
+![Year-wise Savings](screenshots/yearly_savings.png)
+
+### 📈 Cumulative ROI & Payback Analysis
+![Cumulative ROI](screenshots/cumulative_roi.png)
 
 
 ## 🌱 Why This Project Matters
