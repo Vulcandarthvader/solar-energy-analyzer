@@ -101,19 +101,19 @@ When does solar actually break even for my house?
 
 ## 📈 Key Findings (From Our Home)
 
-Annual solar generation: ~2,300–2,500 kWh
+**Annual solar generation:** ~2,300–2,500 kWh
 
-Estimated system size: ~1.5–2 kW
+**Estimated system size:** ~1.5–2 kW
 
-Installation cost: ₹1.7 lakh
+**Installation cost:** ₹1.7 lakh
 
-Average annual savings: ~₹15,000–₹17,000
+**Average annual savings:** ~₹15,000–₹17,000
 
-Break-even year: 2032
+**Break-even year:** 2032
 
-Payback period: ~9 years
+**Payback period:** ~9 years
 
-Long-term savings (25+ years): ~₹8–9 lakh
+**Long-term savings (25+ years):** ~₹8–9 lakh
 
 These results align closely with real rooftop solar economics in India, confirming that solar is a long-term investment rather than a quick return.
 
